@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrisp",
     "port": "COM5",
-    "sketch": "2.5.1&2-led.control.ino"
+    "sketch": "ButtonClass\\ButtonTest.ino"
 }
