@@ -1,0 +1,15 @@
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.csprojAssemblyReference.cache
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\_7._1._3_BankAccount.Form1.resources
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.csproj.GenerateResource.cache
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.AssemblyInfoInputs.cache
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.AssemblyInfo.cs
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.csproj.CoreCompileInputs.cache
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\7.1.3-BankAccount.exe
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\7.1.3-BankAccount.deps.json
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\7.1.3-BankAccount.runtimeconfig.json
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\7.1.3-BankAccount.runtimeconfig.dev.json
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\7.1.3-BankAccount.dll
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\7.1.3-BankAccount.pdb
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.dll
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.pdb
+D:\Fontys\S1-Tech-prep\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\7.1.3-BankAccount.genruntimeconfig.cache
