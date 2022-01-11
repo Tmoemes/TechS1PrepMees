@@ -6,6 +6,9 @@ int centralTestPin = 13;
 // //plan, make every pin output and end in pin 0. check if pin 0 reads then
 // //serial print status.
 
+//to add support for analog input, attach a pot to all the analog inputs
+//cycle through all pins, user twists the pot while program waits
+
 void setup(){
 
 }
