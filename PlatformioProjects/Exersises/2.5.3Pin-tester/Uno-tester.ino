@@ -1,3 +1,4 @@
+#include <Arduino.h>
 int digitalPins[11] = {12,11,10,9,8,7,6,5,4,3,2};
 int analogPins[6] = {A5,A4,A3,A2,A1,A0};
 int centralTestPin = 13;

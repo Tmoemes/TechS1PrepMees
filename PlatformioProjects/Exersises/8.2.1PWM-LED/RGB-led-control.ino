@@ -1,3 +1,4 @@
+#include <Arduino.h>
 int rOut = 3;
 int gOut = 5;
 int bOut = 6;
