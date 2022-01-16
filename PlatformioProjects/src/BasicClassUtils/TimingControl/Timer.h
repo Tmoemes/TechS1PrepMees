@@ -8,6 +8,7 @@ class Timer{
     bool CheckTimer(int delay);
     void ResetTimer();
     bool Delay(int delay);
+    void ResetDelay();
     private:
     long timer = 0;
     unsigned long currentTime = 0;

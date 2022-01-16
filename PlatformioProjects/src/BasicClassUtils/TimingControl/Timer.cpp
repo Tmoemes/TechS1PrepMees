@@ -24,6 +24,10 @@ bool Timer::Delay(int delay){
     return false;
 }
 
+void Timer::ResetDelay(){
+    timer = 0;
+}
+
 void Timer::ResetTimer(){
     timer = millis();
 }
