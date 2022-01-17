@@ -4,6 +4,8 @@
 class RGBLed{
     public:
     RGBLed(byte R,byte G, byte B);
+    void setup();
+    void rgb(int R, int G, int B);
     void white();
     void red();
     void green();

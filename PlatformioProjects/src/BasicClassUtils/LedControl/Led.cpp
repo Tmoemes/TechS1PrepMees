@@ -3,7 +3,10 @@
 
 Led::Led(byte pin) {
     _pin = pin;
-    pinMode(pin,OUTPUT);
+}
+
+void Led::setup(){
+    pinMode(_pin,OUTPUT);
     off();
 }
 

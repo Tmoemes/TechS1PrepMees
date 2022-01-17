@@ -4,6 +4,7 @@
 class Led{
     public:
     Led(byte pin);
+    void setup();
     void on();
     void off();
     void toggle();

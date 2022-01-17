@@ -5,10 +5,19 @@ RGBLed::RGBLed(byte R, byte G, byte B) {
     _R = R;
     _G = G;
     _B = B;
+}
+
+void RGBLed::setup(){
     pinMode(_R,OUTPUT);
     pinMode(_G,OUTPUT);
     pinMode(_B,OUTPUT);
     off();
+}
+
+void RGBLed::rgb(int R, int G, int B){
+    analogWrite(_R,R);
+    analogWrite(_G,G);
+    analogWrite(_B,B);
 }
 
 void RGBLed::white(){

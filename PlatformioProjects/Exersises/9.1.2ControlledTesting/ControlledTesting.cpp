@@ -2,11 +2,11 @@
 #include <BasicClassUtils/TimingControl/Timer.h>
 
 Timer timeoutTimer;
-char* inputString = "";
+char* inputString = {};
 bool commandComplete = false;
-char* commandString = "";
+char* commandString = {};
 bool testComplete = false;
-char* commandTokens; 
+char* commandToken; 
 char* testResult;
 
 char* TestDigitalPin(int testPin,int testerPin){
@@ -58,7 +58,7 @@ char* TestAnalogPin(int testPin,int testerPin){//TODO add check for digital in t
 
 
 void serialEvent(){//get the serial input and converts to usable command string
-    inputString = "";//reset inputstring
+    inputString = {};//reset inputstring
     while(Serial.available()){
         char inChar = Serial.read();
         if(sizeof(inputString) == 1 && inChar != '#') break;//check if first char is # identifier
@@ -80,13 +80,13 @@ void setup(){
 void loop(){
     if(commandComplete){//if there is a complete command execute the code
         commandComplete = false;
-        commandTokens = strtok(commandString,":,");
-        if(strcmp(commandTokens,"Test_Pins:")){//"Test_Pins:0,1"
+        commandToken = strtok(commandString,":,");
+        if(strcmp(commandToken,"Test_Pins")){//"Test_Pins:0,1"
             Serial.println("#Pin_Test_Starting%");
             testResult = TestDigitalPin(atoi(strtok(NULL,",")),atoi(strtok(NULL,",")));
             Serial.println(testResult);//example #True,True%
         }
-        if(strcmp(commandTokens,"Test_Analog_Pins:")){//"Test_Pins:A0,A1"
+        if(strcmp(commandToken,"Test_Analog_Pins")){//"Test_Pins:A0,A1"
             Serial.println("#Analog_Pin_Test_Starting%");
             testResult = TestAnalogPin(atoi(strtok(NULL,",")),atoi(strtok(NULL,",")));
             Serial.println(testResult);//example #True,True%
