@@ -133,7 +133,7 @@ namespace RemoteControl
         private void btn_UpdateRGB_Click(object sender, EventArgs e)
         {
             updateRGB();
-           UpdateSerialResponse();
+            UpdateSerialResponse();
         }
     }
 }

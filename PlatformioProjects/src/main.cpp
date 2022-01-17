@@ -35,8 +35,7 @@ void serialEvent(){//get the serial input and converts to usable command string
         commandString = inputString.substring(1,inputString.length()-1);  //removes # and %
         // Serial.print("commandString:");
         // Serial.println(commandString);
-    }
-    
+    }    
 }
 
 void setup(){
