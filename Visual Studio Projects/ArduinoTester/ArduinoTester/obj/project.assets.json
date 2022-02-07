@@ -489,11 +489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fontys\\TechS1PrepMees\\ArduinoTester\\ArduinoTester\\ArduinoTester.csproj",
+      "projectUniqueName": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\ArduinoTester\\ArduinoTester\\ArduinoTester.csproj",
       "projectName": "ArduinoTester",
-      "projectPath": "D:\\Fontys\\TechS1PrepMees\\ArduinoTester\\ArduinoTester\\ArduinoTester.csproj",
+      "projectPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\ArduinoTester\\ArduinoTester\\ArduinoTester.csproj",
       "packagesPath": "C:\\Users\\meesv\\.nuget\\packages\\",
-      "outputPath": "D:\\Fontys\\TechS1PrepMees\\ArduinoTester\\ArduinoTester\\obj\\",
+      "outputPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\ArduinoTester\\ArduinoTester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meesv\\AppData\\Roaming\\NuGet\\NuGet.Config",

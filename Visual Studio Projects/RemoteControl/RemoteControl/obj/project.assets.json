@@ -489,11 +489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fontys\\TechS1PrepMees\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
+      "projectUniqueName": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
       "projectName": "RemoteControl",
-      "projectPath": "D:\\Fontys\\TechS1PrepMees\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
+      "projectPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
       "packagesPath": "C:\\Users\\meesv\\.nuget\\packages\\",
-      "outputPath": "D:\\Fontys\\TechS1PrepMees\\RemoteControl\\RemoteControl\\obj\\",
+      "outputPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\RemoteControl\\RemoteControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meesv\\AppData\\Roaming\\NuGet\\NuGet.Config",

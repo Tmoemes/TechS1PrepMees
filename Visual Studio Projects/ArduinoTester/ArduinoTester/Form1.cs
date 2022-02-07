@@ -101,7 +101,6 @@ namespace ArduinoTester
                     string outResult = testResults.GetResult(testPin)[1]?"Okay":"Error";
                     lbl_Results.Text = $"pin {testerPin}:\nINPUT:{inResult}\nOutput{outResult}";
                 }
-                
             }
             for (int i = 0; i < analogPins.Length; i++)
             {

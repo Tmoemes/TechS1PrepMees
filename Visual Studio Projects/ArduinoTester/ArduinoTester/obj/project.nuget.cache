@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iuy3nwznCxubdHeC8QA/nlEebw+m7zRP8C8rprRTyJC640qpimPOTmdS6FH2r5j40lDIXMe+P+CA6GHz7oybpg==",
+  "dgSpecHash": "L7kU1TR+P/eywMmMvYRb+Q+0eaMZNz7mBPFWjeMq50/RfpzXCogQtKLqdIB1DZ6iOVPtDjOO5uMbYot6lsJaGQ==",
   "success": true,
-  "projectFilePath": "D:\\Fontys\\TechS1PrepMees\\ArduinoTester\\ArduinoTester\\ArduinoTester.csproj",
+  "projectFilePath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\ArduinoTester\\ArduinoTester\\ArduinoTester.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meesv\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\meesv\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

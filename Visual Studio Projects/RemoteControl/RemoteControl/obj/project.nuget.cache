@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4x9pAzaqdFhgFyFGNhrQPVl0dOwwl4PD+OL3CY1y35o5f6CNx/L19hBjFTLck0exNw1o2F9Q29j6O5DrW3+KUg==",
+  "dgSpecHash": "dBdjGgP90um0SbLuVW7Sgfxa5qdnS6gn1IWKontiK/F3Cvzuae1Dn3j+limNrg9IeLd5zfwbxBhJczpDZR0qLg==",
   "success": true,
-  "projectFilePath": "D:\\Fontys\\TechS1PrepMees\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
+  "projectFilePath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meesv\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\meesv\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

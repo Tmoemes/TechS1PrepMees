@@ -80,13 +80,13 @@ void setup(){
 void loop(){
     if(commandComplete){//if there is a complete command execute the code
         commandComplete = false;
-        commandToken = strtok(commandString,":,");
-        if(strcmp(commandToken,"Test_Pins")){//"Test_Pins:0,1"
+        commandToken = strtok(commandString,":,");s
+        if(strcmp(commandToken,"Test_Pins") == 0){//"Test_Pins:0,1"
             Serial.println("#Pin_Test_Starting%");
             testResult = TestDigitalPin(atoi(strtok(NULL,",")),atoi(strtok(NULL,",")));
             Serial.println(testResult);//example #True,True%
         }
-        if(strcmp(commandToken,"Test_Analog_Pins")){//"Test_Pins:A0,A1"
+        if(strcmp(commandToken,"Test_Analog_Pins") == 0){//"Test_Pins:A0,A1"
             Serial.println("#Analog_Pin_Test_Starting%");
             testResult = TestAnalogPin(atoi(strtok(NULL,",")),atoi(strtok(NULL,",")));
             Serial.println(testResult);//example #True,True%
