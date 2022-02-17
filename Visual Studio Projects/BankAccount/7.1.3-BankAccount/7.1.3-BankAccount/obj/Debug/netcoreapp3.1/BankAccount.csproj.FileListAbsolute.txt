@@ -1,0 +1,14 @@
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.Form1.resources
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.GenerateResource.cache
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+D:\Fontys\TechS1PrepMees\Visual Studio Projects\BankAccount\7.1.3-BankAccount\7.1.3-BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache

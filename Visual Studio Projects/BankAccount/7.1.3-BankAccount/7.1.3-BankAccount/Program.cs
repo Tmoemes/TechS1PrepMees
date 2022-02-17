@@ -1,10 +1,7 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _7._1._3_BankAccount
+namespace BankAccount
 {
     static class Program
     {

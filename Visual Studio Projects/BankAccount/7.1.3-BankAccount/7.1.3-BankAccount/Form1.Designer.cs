@@ -1,4 +1,4 @@
-﻿namespace _7._1._3_BankAccount
+﻿namespace BankAccount
 {
     partial class Form1
     {

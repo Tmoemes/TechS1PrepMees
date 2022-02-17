@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace _7._1._3_BankAccount
+﻿namespace BankAccount
 {
-    class Account
+    public  class Account
     {
         public double Balance { get; private set; }
-        private double _minBalance;
+        private readonly double _minBalance;
 
-        public Account(double startingBalance, double minBalance)
+        public Account(double startingBalance = 0, double minBalance = 0)
         {
-            Balance = startingBalance;
             _minBalance = minBalance;
+            Balance = startingBalance > minBalance ? startingBalance:minBalance;
         }
 
         public string GetStringBalance()
@@ -22,18 +18,22 @@ namespace _7._1._3_BankAccount
 
         public bool Withdraw(double amount)
         {
+            if (amount < 0) return false;
             if (Balance - amount < _minBalance) return false;
             Balance -= amount;
             return true;
         }
 
-        public void Deposit(double amount)
+        public bool Deposit(double amount)
         {
+            if (amount < 0) return false;
             Balance += amount;
+            return true;
         }
 
         public bool TransferTo(Account account, double amount)
         {
+            if (amount < 0) return false;
             if (Balance - amount < _minBalance) return false;
             Withdraw(amount);
             account.Deposit(amount);

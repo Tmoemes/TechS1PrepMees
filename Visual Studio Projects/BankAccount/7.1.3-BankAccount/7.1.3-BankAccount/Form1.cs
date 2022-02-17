@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _7._1._3_BankAccount
+namespace BankAccount
 {
     public partial class Form1 : Form
     {
@@ -29,19 +23,8 @@ namespace _7._1._3_BankAccount
 
         private void txtbox_Input_TextChanged(object sender, EventArgs e)
         {
-            //make default colour of text red, only change to black if it is valid
-            txtbox_Input.ForeColor = Color.Red;
-            try
-            {
-                inputValue = double.Parse(txtbox_Input.Text);
-                //input is valid but still need to check if it is negative
-                txtbox_Input.ForeColor = double.Parse(txtbox_Input.Text) < 0 ? Color.Red : Color.Black;
-            }
-            catch//this is here to deal with inputs that are not parseable to a double
-            {
-                //there is no need for an error message here because it will be given later
-                //if someone tries to perform an action with a string or negative number
-            }
+            //input is valid but still need to check if it is negative
+            txtbox_Input.ForeColor = double.TryParse(txtbox_Input.Text, out inputValue) && inputValue > 0 ? Color.Black : Color.Red;
         }
 
         private void btn_Deposit2_Click(object sender, EventArgs e)

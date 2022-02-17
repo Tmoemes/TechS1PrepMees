@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount.csproj",
-      "projectName": "7.1.3-BankAccount",
-      "projectPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount.csproj",
+      "projectUniqueName": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount\\BankAccount.csproj",
+      "projectName": "BankAccount",
+      "projectPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount\\BankAccount.csproj",
       "packagesPath": "C:\\Users\\meesv\\.nuget\\packages\\",
       "outputPath": "D:\\Fontys\\TechS1PrepMees\\Visual Studio Projects\\BankAccount\\7.1.3-BankAccount\\7.1.3-BankAccount\\obj\\",
       "projectStyle": "PackageReference",
